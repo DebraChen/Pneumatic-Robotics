@@ -1,6 +1,6 @@
 # EXP-001 — Visual Documentation
 
-**Project:** Pneumatic Robotics Lab  
+**Project:** Pneumatic Robotics 
 **Experiment:** Arduino Leonardo Verification & LED Blink  
 **Date:** 19 October 2026  
 **Stage:** 00 — Electronics Fundamentals
